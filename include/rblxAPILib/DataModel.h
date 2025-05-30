@@ -1,6 +1,6 @@
 #ifndef DATAMODEL_H
 #define DATAMODEL_H
-#include <Object.h>
+#include <rblxAPILib/Object.h>
 #include <vector>
 
 class DataModel {
